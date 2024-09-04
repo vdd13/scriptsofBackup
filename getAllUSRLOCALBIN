@@ -1,0 +1,4 @@
+#!/bin/bash
+
+
+sudo tar -czvf usrLOCALbinBACKUP.tar.gz /usr/local/bin/*
